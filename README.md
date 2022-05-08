@@ -1,6 +1,6 @@
-# 深蓝学院后融合练习
+# 项目来自深蓝学院多传感器融合感知课程
 
-lidar、camera后融合算法，输入数据来自apollo检测算法
+项目实现了Lidar与Camera的后融合感知算法，融合的算法基于扩展卡尔曼滤波(Extended Kalman Filter,EKF)。输入数据为Lidar检测结果以及Camera检测结果，检测算法与Apollo 6.0一致，Lidar检测算法为PointPillars，Camera检测算法为YOLO。
 
 ## 使用方法
 
