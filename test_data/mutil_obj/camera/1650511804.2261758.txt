@@ -1,0 +1,97 @@
+perception_obstacle {
+  id: 844
+  position {
+    x: 586114.3226279344
+    y: 4132651.114909256
+    z: 1123.5798683746475
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586114.1295365528
+    y: 4132653.2992991507
+    z: 0.0
+  }
+  polygon_point {
+    x: 586115.5706910368
+    y: 4132652.918012688
+    z: 0.0
+  }
+  polygon_point {
+    x: 586114.515719316
+    y: 4132648.930519361
+    z: 0.0
+  }
+  polygon_point {
+    x: 586113.074564832
+    y: 4132649.311805824
+    z: 0.0
+  }
+  tracking_time: 7.519992828369141
+  type: VEHICLE
+  timestamp: 1650511642.5772216
+  anchor_point {
+    x: 586114.3226279344
+    y: 4132651.114909256
+    z: 1123.5798683746475
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 4645.35107421875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 4645.35107421875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.00048128009075298905
+  velocity_covariance: 0.004577441141009331
+  velocity_covariance: 0.0
+  velocity_covariance: 0.004577441141009331
+  velocity_covariance: 0.04353591427206993
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.6695095300674438
+    brake_switch_on: 0.2772737443447113
+    left_turn_visible: 0.6484593152999878
+    left_turn_switch_on: 0.23368896543979645
+    right_turn_visible: 0.6261972784996033
+    right_turn_switch_on: 0.20237255096435547
+  }
+}
+header {
+  timestamp_sec: 1650511804.2260435
+  module_name: "perception_camera"
+  sequence_num: 10724
+  lidar_timestamp: 1650511642577221632
+  camera_timestamp: 1650511642577221632
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

@@ -1,0 +1,176 @@
+perception_obstacle {
+  id: 855
+  position {
+    x: 586155.2148192789
+    y: 4133040.0390000464
+    z: 1123.5759755150527
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586155.0217278973
+    y: 4133042.2233899413
+    z: 0.0
+  }
+  polygon_point {
+    x: 586156.4628823813
+    y: 4133041.8421034785
+    z: 0.0
+  }
+  polygon_point {
+    x: 586155.4079106605
+    y: 4133037.8546101516
+    z: 0.0
+  }
+  polygon_point {
+    x: 586153.9667561766
+    y: 4133038.2358966144
+    z: 0.0
+  }
+  tracking_time: 1.7799983024597168
+  type: VEHICLE
+  timestamp: 1650511640.4872236
+  anchor_point {
+    x: 586155.2148192789
+    y: 4133040.0390000464
+    z: 1123.5759755150527
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 195.06129455566406
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 195.06129455566406
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 2.2222723661258215e-11
+  velocity_covariance: 2.115162767157841e-10
+  velocity_covariance: 0.0
+  velocity_covariance: 2.115162767157841e-10
+  velocity_covariance: 2.013216038321275e-09
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.5382604002952576
+    brake_switch_on: 0.2363949567079544
+    left_turn_visible: 0.5995026230812073
+    left_turn_switch_on: 0.24547910690307617
+    right_turn_visible: 0.5951260328292847
+    right_turn_switch_on: 0.22641117870807648
+  }
+}
+perception_obstacle {
+  id: 844
+  position {
+    x: 586107.6629993188
+    y: 4132587.775351691
+    z: 1123.5748573353449
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586107.4699079372
+    y: 4132589.959741586
+    z: 0.0
+  }
+  polygon_point {
+    x: 586108.9110624212
+    y: 4132589.578455123
+    z: 0.0
+  }
+  polygon_point {
+    x: 586107.8560907004
+    y: 4132585.590961796
+    z: 0.0
+  }
+  polygon_point {
+    x: 586106.4149362164
+    y: 4132585.972248259
+    z: 0.0
+  }
+  tracking_time: 5.429994821548462
+  type: VEHICLE
+  timestamp: 1650511640.4872236
+  anchor_point {
+    x: 586107.6629993188
+    y: 4132587.775351691
+    z: 1123.5748573353449
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 2324.226318359375
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 2324.226318359375
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.0002688343229237944
+  velocity_covariance: 0.002556875115260482
+  velocity_covariance: 0.0
+  velocity_covariance: 0.002556875115260482
+  velocity_covariance: 0.024318363517522812
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.6067351698875427
+    brake_switch_on: 0.217825248837471
+    left_turn_visible: 0.6638336777687073
+    left_turn_switch_on: 0.1919030398130417
+    right_turn_visible: 0.5791436433792114
+    right_turn_switch_on: 0.16320642828941345
+  }
+}
+header {
+  timestamp_sec: 1650511802.071073
+  module_name: "perception_camera"
+  sequence_num: 10682
+  lidar_timestamp: 1650511640487223552
+  camera_timestamp: 1650511640487223552
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

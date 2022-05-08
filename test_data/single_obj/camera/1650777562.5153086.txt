@@ -1,0 +1,97 @@
+perception_obstacle {
+  id: 3
+  position {
+    x: 585380.3070668031
+    y: 4132874.6813438144
+    z: 206.70859842508597
+  }
+  theta: 1.2277896404266357
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 585380.2987245424
+    y: 4132876.874235502
+    z: 0.0
+  }
+  polygon_point {
+    x: 585381.702625491
+    y: 4132876.3728696033
+    z: 0.0
+  }
+  polygon_point {
+    x: 585380.3154090638
+    y: 4132872.4884521267
+    z: 0.0
+  }
+  polygon_point {
+    x: 585378.9115081152
+    y: 4132872.9898180254
+    z: 0.0
+  }
+  tracking_time: 1.3899986743927002
+  type: VEHICLE
+  timestamp: 1650774805.1382446
+  anchor_point {
+    x: 585380.3070668031
+    y: 4132874.6813438144
+    z: 206.70859842508597
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 746.6356811523438
+    xmax: 0.0
+    ymax: 746.6356811523438
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 108.90692138671875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 108.90692138671875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 1.2268863702757926e-10
+  velocity_covariance: -2.1036811181929238e-10
+  velocity_covariance: 0.0
+  velocity_covariance: -2.1036811181929238e-10
+  velocity_covariance: 4.272050491138657e-10
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.08428476750850677
+    brake_switch_on: 0.0029705010820180178
+    left_turn_visible: 0.49994632601737976
+    left_turn_switch_on: 0.07094273716211319
+    right_turn_visible: 0.029616668820381165
+    right_turn_switch_on: 0.0006261835223995149
+  }
+}
+header {
+  timestamp_sec: 1650777562.5151877
+  module_name: "perception_camera"
+  sequence_num: 46
+  lidar_timestamp: 1650774805138244608
+  camera_timestamp: 1650774805138244608
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

@@ -1,0 +1,97 @@
+perception_obstacle {
+  id: 844
+  position {
+    x: 586112.3758062011
+    y: 4132632.5987363337
+    z: 1123.5803218417327
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586112.1827148196
+    y: 4132634.7831262285
+    z: 0.0
+  }
+  polygon_point {
+    x: 586113.6238693035
+    y: 4132634.4018397657
+    z: 0.0
+  }
+  polygon_point {
+    x: 586112.5688975827
+    y: 4132630.414346439
+    z: 0.0
+  }
+  polygon_point {
+    x: 586111.1277430988
+    y: 4132630.7956329016
+    z: 0.0
+  }
+  tracking_time: 7.019993305206299
+  type: VEHICLE
+  timestamp: 1650511642.077222
+  anchor_point {
+    x: 586112.3758062011
+    y: 4132632.5987363337
+    z: 1123.5803218417327
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 4036.48193359375
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 4036.48193359375
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.000441166281234473
+  velocity_covariance: 0.004195926710963249
+  velocity_covariance: 0.0
+  velocity_covariance: 0.004195926710963249
+  velocity_covariance: 0.03990740329027176
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.6609602570533752
+    brake_switch_on: 0.28865671157836914
+    left_turn_visible: 0.6423413157463074
+    left_turn_switch_on: 0.23434600234031677
+    right_turn_visible: 0.6207383871078491
+    right_turn_switch_on: 0.2025698572397232
+  }
+}
+header {
+  timestamp_sec: 1650511803.7072556
+  module_name: "perception_camera"
+  sequence_num: 10714
+  lidar_timestamp: 1650511642077222144
+  camera_timestamp: 1650511642077222144
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

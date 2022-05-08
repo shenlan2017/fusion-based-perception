@@ -1,0 +1,97 @@
+perception_obstacle {
+  id: 844
+  position {
+    x: 586123.8726296854
+    y: 4132741.9446287747
+    z: 1123.4500964456054
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586123.6795383039
+    y: 4132744.1290186695
+    z: 0.0
+  }
+  polygon_point {
+    x: 586125.1206927878
+    y: 4132743.7477322067
+    z: 0.0
+  }
+  polygon_point {
+    x: 586124.065721067
+    y: 4132739.76023888
+    z: 0.0
+  }
+  polygon_point {
+    x: 586122.6245665831
+    y: 4132740.1415253426
+    z: 0.0
+  }
+  tracking_time: 9.439990997314453
+  type: VEHICLE
+  timestamp: 1650511644.4972198
+  anchor_point {
+    x: 586123.8726296854
+    y: 4132741.9446287747
+    z: 1123.4500964456054
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 7099.08056640625
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 7099.08056640625
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.0005642702453769743
+  velocity_covariance: 0.005366758443415165
+  velocity_covariance: 0.0
+  velocity_covariance: 0.005366758443415165
+  velocity_covariance: 0.051043085753917694
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.5343679785728455
+    brake_switch_on: 0.1768374890089035
+    left_turn_visible: 0.6497417092323303
+    left_turn_switch_on: 0.1700463891029358
+    right_turn_visible: 0.38088110089302063
+    right_turn_switch_on: 0.1074662134051323
+  }
+}
+header {
+  timestamp_sec: 1650511806.21843
+  module_name: "perception_camera"
+  sequence_num: 10764
+  lidar_timestamp: 1650511644497219840
+  camera_timestamp: 1650511644497219840
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

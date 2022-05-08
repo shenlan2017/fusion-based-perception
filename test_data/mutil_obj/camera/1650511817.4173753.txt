@@ -1,0 +1,176 @@
+perception_obstacle {
+  id: 891
+  position {
+    x: 586155.2111832206
+    y: 4133040.004018337
+    z: 1123.5733997992181
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586155.018091839
+    y: 4133042.188408232
+    z: 0.0
+  }
+  polygon_point {
+    x: 586156.459246323
+    y: 4133041.807121769
+    z: 0.0
+  }
+  polygon_point {
+    x: 586155.4042746022
+    y: 4133037.819628442
+    z: 0.0
+  }
+  polygon_point {
+    x: 586153.9631201182
+    y: 4133038.200914905
+    z: 0.0
+  }
+  tracking_time: 1.4399986267089844
+  type: VEHICLE
+  timestamp: 1650511655.3072095
+  anchor_point {
+    x: 586155.2111832206
+    y: 4133040.004018337
+    z: 1123.5733997992181
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 145.97512817382812
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 145.97512817382812
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 7.711160269346928e-14
+  velocity_covariance: 7.373275709605942e-13
+  velocity_covariance: 0.0
+  velocity_covariance: 7.373275709605942e-13
+  velocity_covariance: 7.050417541454301e-12
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.9935173988342285
+    brake_switch_on: 0.03817030414938927
+    left_turn_visible: 0.9840189814567566
+    left_turn_switch_on: 0.28640204668045044
+    right_turn_visible: 0.9894187450408936
+    right_turn_switch_on: 0.23898601531982422
+  }
+}
+perception_obstacle {
+  id: 892
+  position {
+    x: 586155.2168943953
+    y: 4133040.057756141
+    z: 1123.5707292477605
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 8.977946208688081e-08
+    y: 9.82264282356482e-07
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586155.0238030137
+    y: 4133042.2421460357
+    z: 0.0
+  }
+  polygon_point {
+    x: 586156.4649574977
+    y: 4133041.860859573
+    z: 0.0
+  }
+  polygon_point {
+    x: 586155.4099857769
+    y: 4133037.873366246
+    z: 0.0
+  }
+  polygon_point {
+    x: 586153.9688312929
+    y: 4133038.254652709
+    z: 0.0
+  }
+  tracking_time: 0.8399991989135742
+  type: VEHICLE
+  timestamp: 1650511655.3072095
+  anchor_point {
+    x: 586155.2168943953
+    y: 4133040.057756141
+    z: 1123.5707292477605
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 48.876094818115234
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 48.876094818115234
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 6.429426350144224e-16
+  velocity_covariance: 6.883732153766713e-15
+  velocity_covariance: 0.0
+  velocity_covariance: 6.883732153766713e-15
+  velocity_covariance: 7.381548578757821e-14
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.9719170331954956
+    brake_switch_on: 0.0007907127728685737
+    left_turn_visible: 0.9107760190963745
+    left_turn_switch_on: 0.043052054941654205
+    right_turn_visible: 0.9807325005531311
+    right_turn_switch_on: 0.07023033499717712
+  }
+}
+header {
+  timestamp_sec: 1650511817.4172194
+  module_name: "perception_camera"
+  sequence_num: 10983
+  lidar_timestamp: 1650511655307209472
+  camera_timestamp: 1650511655307209472
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

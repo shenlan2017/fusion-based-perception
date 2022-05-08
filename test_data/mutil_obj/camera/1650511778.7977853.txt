@@ -1,0 +1,97 @@
+perception_obstacle {
+  id: 798
+  position {
+    x: 586104.0403638831
+    y: 4132553.3209219067
+    z: 1123.5756328201912
+  }
+  theta: 1.3121522665023804
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586103.8472725016
+    y: 4132555.5053118016
+    z: 0.0
+  }
+  polygon_point {
+    x: 586105.2884269855
+    y: 4132555.124025339
+    z: 0.0
+  }
+  polygon_point {
+    x: 586104.2334552647
+    y: 4132551.136532012
+    z: 0.0
+  }
+  polygon_point {
+    x: 586102.7923007808
+    y: 4132551.5178184747
+    z: 0.0
+  }
+  tracking_time: 1.4899985790252686
+  type: VEHICLE
+  timestamp: 1650511618.087245
+  anchor_point {
+    x: 586104.0403638831
+    y: 4132553.3209219067
+    z: 1123.5756328201912
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 123.67961120605469
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 123.67961120605469
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 6.846515589131741e-06
+  velocity_covariance: 6.511690298793837e-05
+  velocity_covariance: 0.0
+  velocity_covariance: 6.511690298793837e-05
+  velocity_covariance: 0.0006193239241838455
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.8848586678504944
+    brake_switch_on: 0.009141922928392887
+    left_turn_visible: 0.9472965002059937
+    left_turn_switch_on: 0.20550645887851715
+    right_turn_visible: 0.9621185064315796
+    right_turn_switch_on: 0.2371651530265808
+  }
+}
+header {
+  timestamp_sec: 1650511778.7976487
+  module_name: "perception_camera"
+  sequence_num: 10233
+  lidar_timestamp: 1650511618087245056
+  camera_timestamp: 1650511618087245056
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

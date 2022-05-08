@@ -1,0 +1,183 @@
+perception_obstacle {
+  id: 1
+  position {
+    x: 586997.8945361944
+    y: 4141363.457061676
+    z: -5.008477831529429
+  }
+  theta: 1.3385555744171143
+  velocity {
+    x: 2.8791818618774414
+    y: 13.418776512145996
+    z: 0.0
+  }
+  length: 4.094712734222412
+  width: 1.690119743347168
+  height: 1.4175013303756714
+  polygon_point {
+    x: 586996.858907963
+    y: 4141362.76581117
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586996.8610221398
+    y: 4141362.5296775945
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586996.8705923808
+    y: 4141362.1262561926
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586996.8852911842
+    y: 4141361.6019470342
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586998.7273133051
+    y: 4141363.6631729254
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586999.1650116694
+    y: 4141365.0125190862
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586999.153567816
+    y: 4141365.0301544317
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586998.8035385859
+    y: 4141365.309550489
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586998.4916100752
+    y: 4141365.418002332
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586998.1918101561
+    y: 4141365.4770900854
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586997.9109497321
+    y: 4141365.470713819
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586997.6256534111
+    y: 4141365.3642704138
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586997.3848985684
+    y: 4141364.7821285375
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586997.1299836886
+    y: 4141363.8618232855
+    z: -5.008477756728941
+  }
+  polygon_point {
+    x: 586996.8642759573
+    y: 4141362.839219297
+    z: -5.008477756728941
+  }
+  tracking_time: 2.019998073577881
+  type: VEHICLE
+  timestamp: 1650774806.4382434
+  acceleration {
+    x: 0.4459473788738251
+    y: 5.334407806396484
+    z: 0.0
+  }
+  anchor_point {
+    x: 586997.8367260575
+    y: 4141364.307067786
+    z: -4.288267967935164
+  }
+  bbox2d {
+    xmin: 0.0
+    ymin: 0.0
+    xmax: 0.0
+    ymax: 0.0
+  }
+  sub_type: ST_UNKNOWN
+  measurements {
+    sensor_id: "velodyne128"
+    id: 1
+    position {
+      x: 586997.8945361944
+      y: 4141363.457061676
+      z: -5.008477831529429
+    }
+    theta: 1.3385555744171143
+    length: 4.094712734222412
+    width: 1.690119743347168
+    height: 1.4175013303756714
+    velocity {
+      x: 3.422306537628174
+      y: 14.470137596130371
+      z: 0.0
+    }
+    type: VEHICLE
+    timestamp: 1650774806.4382434
+    box {
+      xmin: 0.0
+      ymin: 0.0
+      xmax: 0.0
+      ymax: 0.0
+    }
+  }
+  height_above_ground: nan
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 1.6447559595108032
+  velocity_covariance: 3.27118182182312
+  velocity_covariance: 0.0
+  velocity_covariance: 3.27118182182312
+  velocity_covariance: 7.31181526184082
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.009999999776482582
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  acceleration_covariance: 0.0
+  light_status {
+    brake_visible: 0.0
+    brake_switch_on: 0.0
+    left_turn_visible: 0.0
+    left_turn_switch_on: 0.0
+    right_turn_visible: 0.0
+    right_turn_switch_on: 0.0
+  }
+}
+header {
+  timestamp_sec: 1650777563.7057803
+  module_name: "perception_obstacle"
+  sequence_num: 34
+  lidar_timestamp: 1650774806438243328
+  camera_timestamp: 0
+  radar_timestamp: 0
+}
+error_code: OK

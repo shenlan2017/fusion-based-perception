@@ -1,0 +1,168 @@
+perception_obstacle {
+  id: 800
+  position {
+    x: 587037.8638712204
+    y: 4141585.3662730358
+    z: -0.9967693644387718
+  }
+  theta: -0.42860984802246094
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.544439792633057
+  width: 1.6511199474334717
+  height: 1.464460015296936
+  polygon_point {
+    x: 587040.2736644577
+    y: 4141585.172806461
+    z: 0.0
+  }
+  polygon_point {
+    x: 587039.5874477853
+    y: 4141583.6710395454
+    z: 0.0
+  }
+  polygon_point {
+    x: 587035.454077983
+    y: 4141585.5597396106
+    z: 0.0
+  }
+  polygon_point {
+    x: 587036.1402946555
+    y: 4141587.061506526
+    z: 0.0
+  }
+  tracking_time: 22.49997854232788
+  type: VEHICLE
+  timestamp: 1650511640.4872236
+  anchor_point {
+    x: 587037.8638712204
+    y: 4141585.3662730358
+    z: -0.9967693644387718
+  }
+  bbox2d {
+    xmin: 1340.533203125
+    ymin: 512.9990844726562
+    xmax: 1542.6953125
+    ymax: 583.9990844726562
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.464460015296936
+  position_covariance: 1.0065802335739136
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 1.0065802335739136
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 6.910988304298371e-05
+  velocity_covariance: 7.569583249278367e-05
+  velocity_covariance: 0.0
+  velocity_covariance: 7.569583249278367e-05
+  velocity_covariance: 8.32732257549651e-05
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.012557650916278362
+    brake_switch_on: 2.5628363800933585e-05
+    left_turn_visible: 0.8283551931381226
+    left_turn_switch_on: 0.08787242323160172
+    right_turn_visible: 0.08719681948423386
+    right_turn_switch_on: 0.0038385330699384212
+  }
+}
+perception_obstacle {
+  id: 824
+  position {
+    x: 587041.0799868474
+    y: 4141561.7643066556
+    z: -0.8067218650805227
+  }
+  theta: -0.25813737511634827
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 0.5000357031822205
+  width: 0.5307246446609497
+  height: 1.690029263496399
+  polygon_point {
+    x: 587041.3894626088
+    y: 4141561.9570521913
+    z: 0.0
+  }
+  polygon_point {
+    x: 587041.2539791805
+    y: 4141561.443911967
+    z: 0.0
+  }
+  polygon_point {
+    x: 587040.7705110859
+    y: 4141561.57156112
+    z: 0.0
+  }
+  polygon_point {
+    x: 587040.9059945142
+    y: 4141562.0847013444
+    z: 0.0
+  }
+  tracking_time: 10.61998987197876
+  type: PEDESTRIAN
+  timestamp: 1650511640.4872236
+  anchor_point {
+    x: 587041.0799868474
+    y: 4141561.7643066556
+    z: -0.8067218650805227
+  }
+  bbox2d {
+    xmin: 1001.9979858398438
+    ymin: 509.1022033691406
+    xmax: 1031.001953125
+    ymax: 547.117919921875
+  }
+  sub_type: ST_PEDESTRIAN
+  height_above_ground: 1.690029263496399
+  position_covariance: 2.1680145263671875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 2.1680145263671875
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.00013111982843838632
+  velocity_covariance: 0.00041751679964363575
+  velocity_covariance: 0.0
+  velocity_covariance: 0.00041751679964363575
+  velocity_covariance: 0.0013294732198119164
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+}
+header {
+  timestamp_sec: 1650511801.9304879
+  module_name: "perception_camera"
+  sequence_num: 10679
+  lidar_timestamp: 1650511640487223552
+  camera_timestamp: 1650511640487223552
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+  }
+  next_left_lane_marker {
+  }
+  next_right_lane_marker {
+  }
+}

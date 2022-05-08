@@ -1,0 +1,109 @@
+perception_obstacle {
+  id: 0
+  position {
+    x: 586991.1609546673
+    y: 4141341.535975251
+    z: -4.512545074256767
+  }
+  theta: 1.2639145851135254
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4.124690055847168
+  width: 1.4907399415969849
+  height: 1.3856600522994995
+  polygon_point {
+    x: 586991.0734169718
+    y: 4141343.727134938
+    z: 0.0
+  }
+  polygon_point {
+    x: 586992.4945098571
+    y: 4141343.276800968
+    z: 0.0
+  }
+  polygon_point {
+    x: 586991.2484923627
+    y: 4141339.344815564
+    z: 0.0
+  }
+  polygon_point {
+    x: 586989.8273994774
+    y: 4141339.7951495335
+    z: 0.0
+  }
+  tracking_time: 1.7399983406066895
+  type: VEHICLE
+  timestamp: 1650774804.9682448
+  anchor_point {
+    x: 586991.1609546673
+    y: 4141341.535975251
+    z: -4.512545074256767
+  }
+  bbox2d {
+    xmin: 650.8533325195312
+    ymin: 546.1594848632812
+    xmax: 712.8206787109375
+    ymax: 593.9223022460938
+  }
+  sub_type: ST_CAR
+  height_above_ground: 1.3856600522994995
+  position_covariance: 2.1537325382232666
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 2.1537325382232666
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  position_covariance: 0.0
+  velocity_covariance: 0.05836034566164017
+  velocity_covariance: 0.2076757401227951
+  velocity_covariance: 0.0
+  velocity_covariance: 0.2076757401227951
+  velocity_covariance: 0.7441911697387695
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  velocity_covariance: 0.0
+  light_status {
+    brake_visible: 0.09935343265533447
+    brake_switch_on: 0.0003570820263121277
+    left_turn_visible: 0.9350671768188477
+    left_turn_switch_on: 0.1330062448978424
+    right_turn_visible: 0.8429077863693237
+    right_turn_switch_on: 0.0811622217297554
+  }
+}
+header {
+  timestamp_sec: 1650777562.200777
+  module_name: "perception_camera"
+  sequence_num: 41
+  lidar_timestamp: 1650774804968244736
+  camera_timestamp: 1650774804968244736
+}
+error_code: OK
+lane_marker {
+  left_lane_marker {
+  }
+  right_lane_marker {
+    c0_position: -0.6161532402038574
+    c1_heading_angle: 0.06557575613260269
+    c2_curvature: 0.0009429556666873395
+    c3_curvature_derivative: 0.0
+    longitude_start: 5.238580703735352
+    longitude_end: 19.253952026367188
+  }
+  next_left_lane_marker {
+    c0_position: 3.397139549255371
+    c1_heading_angle: 0.04717455059289932
+    c2_curvature: 0.0008632949320599437
+    c3_curvature_derivative: 0.0
+    longitude_start: 5.587480068206787
+    longitude_end: 14.34197998046875
+  }
+  next_right_lane_marker {
+  }
+}
