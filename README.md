@@ -3,6 +3,12 @@
 项目实现了Lidar与Camera的后融合感知算法，融合的算法基于扩展卡尔曼滤波(Extended Kalman Filter,EKF)。输入数据为Lidar检测结果以及Camera检测结果，检测算法与Apollo 6.0一致，Lidar检测算法为PointPillars，Camera检测算法为YOLO。
 该项目可以扩展至Lidar, Camera, Radar3种传感器的感知融合。
 
+## 编译环境
+
+平台：ubuntu ≥ 16.04
+
+ROS版本 ≥ kinetic
+
 ## 使用方法
 
 使用catkin_make编译代码并source所在的工作空间
